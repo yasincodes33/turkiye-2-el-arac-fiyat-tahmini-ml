@@ -1,0 +1,18 @@
+# Model dosyaları
+rf_model_eski.pkl
+arac_fiyat_modeli.pkl
+target_encoder.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Geçici dosyalar
+tempCodeRunnerFile.py
+ModelEgitimi_Optimum.ipynb
+
+# Claude Code
+.claude/
